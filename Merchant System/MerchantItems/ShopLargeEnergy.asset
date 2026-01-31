@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955ff4023831eef4597c129dac5e5817, type: 3}
+  m_Name: ShopLargeEnergy
+  m_EditorClassIdentifier: 
+  consumableToBuy: {fileID: 11400000, guid: 858bf87d095ff2d409bcadf27b27cf49, type: 2}
+  priceOfItem: 50
+  merchantTooltip: {fileID: 11400000, guid: c09a0db175878334492ae97674dc8ec1, type: 2}

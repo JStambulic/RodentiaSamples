@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 334e314855ee4134e9417cfce70ec12c, type: 3}
+  m_Name: BottleCollect
+  m_EditorClassIdentifier: 
+  type: 3
+  collectibleSprite: {fileID: 8400000, guid: 0e1b6e560960cfa428de75381ee6ec4f, type: 2}
+  description: {fileID: 11400000, guid: d92221e48a364834ab1697b55fd1df3d, type: 2}

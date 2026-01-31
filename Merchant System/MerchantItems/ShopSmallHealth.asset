@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 955ff4023831eef4597c129dac5e5817, type: 3}
+  m_Name: ShopSmallHealth
+  m_EditorClassIdentifier: 
+  consumableToBuy: {fileID: 11400000, guid: 7c230ac072415e942bae3d28f6c2e8a0, type: 2}
+  priceOfItem: 15
+  merchantTooltip: {fileID: 11400000, guid: 60360ddc47846b84ebe350b62c09733f, type: 2}
